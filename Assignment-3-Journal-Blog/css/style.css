@@ -1,0 +1,48 @@
+h1{
+    color: #E1F2FE;
+    background-color: #114155;
+    width: Chrome 1;
+    height: 40px;
+    margin: auto auto auto auto;
+    margin-bottom: 50px;   
+    text-align: center;
+    padding: 20px;
+}
+
+h2{
+    width: 1000px; 
+    /* the px should be adjusted according to the length of the title */
+    background-color: #E1F2FE;
+    height: 30px;
+    padding: 15px;
+    margin: 20px 40px 25px;
+    /* the margin is what makes the gap from the left to the start of the box */
+    text-align: left;
+}
+
+p{
+    width: 475px;
+    margin: 20px 40px auto;
+}
+
+img{
+    height: 250px;
+    margin: 20px 40px 10px;
+    /* border: 5px solid #114155; */
+}
+
+/* img{
+    width: 400px;
+    height: 150px;
+    background-color: orange;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 20px 40px;
+    box-sizing: border-box;
+} */
+/* 
+img:hover{
+    margin: 20px 40px;
+    border: 8px solid rgb(151, 4, 4);
+} */
